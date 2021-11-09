@@ -14,10 +14,6 @@ from functions import title, choose_category, getletter, music, printletter, if_
 
 def main():
 
-    # this_song = "remixpvztheme.mp3"
-    # my_music = music(this_song)
-    # print(my_music)
-    
     #constants
     number_mistakes = 0
     letters_guessed = []
